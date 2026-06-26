@@ -18,6 +18,14 @@
 
 ###
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vanuja03/Vanuja03/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vanuja03/Vanuja03/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vanuja03/Vanuja03/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
 <h1 data-importer="text" align="center">Hi 👋 I'm Vanuja Vinnath</h1>
 
 ###
